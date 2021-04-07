@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>socialsidebar</name>
+    <displayName><![CDATA[Social Sidebar]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[This module add social sidebar in your store]]></description>
+    <author><![CDATA[Dark-Side.pro]]></author>
+    <tab><![CDATA[social_networks]]></tab>
+	<confirmUninstall><![CDATA[]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
